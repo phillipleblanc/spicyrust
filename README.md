@@ -1,0 +1,2 @@
+# spicyrust
+Rust coding copilot
